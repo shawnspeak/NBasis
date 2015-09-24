@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBasis", "NBasis\NBasis.csproj", "{72A14AB2-6543-4E84-AB8B-1264AB64855F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBasis.Web", "NBasis.Web\NBasis.Web.csproj", "{80032B0A-C56E-4649-A207-21887A1D0237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBasis.Models", "NBasis.Models\NBasis.Models.csproj", "{804D12CA-7F4F-4E8C-ACFF-35895B7C82DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A14AB2-6543-4E84-AB8B-1264AB64855F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A14AB2-6543-4E84-AB8B-1264AB64855F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A14AB2-6543-4E84-AB8B-1264AB64855F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A14AB2-6543-4E84-AB8B-1264AB64855F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80032B0A-C56E-4649-A207-21887A1D0237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80032B0A-C56E-4649-A207-21887A1D0237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80032B0A-C56E-4649-A207-21887A1D0237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80032B0A-C56E-4649-A207-21887A1D0237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{804D12CA-7F4F-4E8C-ACFF-35895B7C82DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804D12CA-7F4F-4E8C-ACFF-35895B7C82DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804D12CA-7F4F-4E8C-ACFF-35895B7C82DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804D12CA-7F4F-4E8C-ACFF-35895B7C82DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
