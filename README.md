@@ -1,1 +1,3 @@
-# xbasis
+# NBasis
+
+Some application basics
